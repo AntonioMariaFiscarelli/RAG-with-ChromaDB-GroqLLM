@@ -13,6 +13,20 @@ This project implements a lightweight Retrieval-Augmented Generation (RAG) pipel
 - 🧩 Modular LangChain integration
 - 📦 Clean Python packaging with `pyproject.toml`
 
+🧠 Supported Models
+Groq supports the following models:
+    llama3-8b-8192
+    mixtral-8x7b
+    gemma-7b-it
+
+Make sure your API key has access to these models.
+
+
+📜 License
+This project is licensed under the MIT License.
+
+🙋‍♂️ Author
+Created by Antonio Fiscarelli
 
 
 ## ⚙️ Setup
@@ -32,18 +46,5 @@ pip install -e .
 GROQ_API_KEY=your_actual_key_here
 
 
-🧠 Supported Models
-Groq supports the following models:
-    llama3-8b-8192
-    mixtral-8x7b
-    gemma-7b-it
 
-Make sure your API key has access to these models.
-
-
-📜 License
-This project is licensed under the MIT License.
-
-🙋‍♂️ Author
-Created by Antonio Fiscarelli
 
