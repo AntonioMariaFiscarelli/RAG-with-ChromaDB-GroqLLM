@@ -1,7 +1,12 @@
+ipykernel
 langchain
 langchain-core
 langchain-community
 langchain-text-splitters
 pypdf
 pymupdf
-ipykernel
+sentence-transformers
+chromadb
+python-dotenv
+langchain-groq
+langchain-prompts
